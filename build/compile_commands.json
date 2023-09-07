@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/code/OpenGL/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/glm_dummy.dir/includes_CXX.rsp -g -o CMakeFiles\\glm_dummy.dir\\detail\\dummy.obj -c D:\\code\\OpenGL\\include\\glm\\detail\\dummy.cpp",
+  "file": "D:/code/OpenGL/include/glm/detail/dummy.cpp",
+  "output": "CMakeFiles/glm_dummy.dir/detail/dummy.obj"
+},
+{
+  "directory": "D:/code/OpenGL/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/glm_dummy.dir/includes_CXX.rsp -g -o CMakeFiles\\glm_dummy.dir\\detail\\glm.obj -c D:\\code\\OpenGL\\include\\glm\\detail\\glm.cpp",
+  "file": "D:/code/OpenGL/include/glm/detail/glm.cpp",
+  "output": "CMakeFiles/glm_dummy.dir/detail/glm.obj"
+}
+]
